@@ -5,7 +5,6 @@
 <hr>
 
 ![image](https://github.com/Jannyoon/stopWatch/assets/149743716/fd0056b8-b4c4-4dfd-ab2d-b5bdaf321877)
-https://wonderful-choux-13e78b.netlify.app
 
 <hr>
 
